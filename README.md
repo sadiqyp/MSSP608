@@ -5,9 +5,9 @@ The Google Colab links to all the notebooks will be updated here and the Lecture
 
 # Lecture Notebooks on Google Colab
 
-[DAY 1 - Exploratory Data Analysis, Decision Trees, Information Theory, and Intro to Machine Learning](https://colab.research.google.com/drive/1YECWtHV2N3y4MlcpezYZ_1eIElNASLiE?usp=sharing)
+Day 1 [Exploratory Data Analysis, Decision Trees, Information Theory, and Intro to Machine Learning](https://colab.research.google.com/drive/1YECWtHV2N3y4MlcpezYZ_1eIElNASLiE?usp=sharing)
 
-Day 2 [Test Sets, Metrics, and Logistic Regression]
+Day 2 [Test Sets, Metrics, and Logistic Regression](https://colab.research.google.com/drive/1-xtDhd65OxMGO-RRCuiGiHIYmw2CV6bX?usp=sharing)
 
 Day 3 [Cross Validation and Hyperparameters]
 
