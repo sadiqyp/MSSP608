@@ -5,4 +5,14 @@ The Google Colab links to all the notebooks will be updated here and the Lecture
 
 # Lecture Notebooks on Google Colab
 
+Day 1 [Exploratory Data Analysis, Decision Trees, Information Theory, and Intro to Machine Learning]
+Day 2 [Test Sets, Metrics, and Logistic Regression]
+Day 3 [Cross Validation and Hyperparameters]
+Day 4 [Text Data and Naive Bayes]
+Day 5 [Dependency Parsing, Multilingual NLP. Domain Transfer, and Word Embeddings]
+Day 6 [k-Nearest-Neighbors and Support Vector Machines]
+Day 7 [Ensemble Methods and Unsupervised Learning]
+Day 8 [Fairness and Explainability]
+Day 9 [Neural Networks and Deep Learning]
+
 # Recitation Slides
