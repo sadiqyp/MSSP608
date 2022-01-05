@@ -5,7 +5,7 @@ The Google Colab links to all the notebooks will be updated here and the Lecture
 
 # Lecture Notebooks on Google Colab
 
-Unit 1 (4 weeks): 
+**Unit 1 (4 weeks): **
 
 [Exploratory Data Analysis, Decision Trees, Information Theory, and Intro to Machine Learning](https://colab.research.google.com/drive/1YECWtHV2N3y4MlcpezYZ_1eIElNASLiE?usp=sharing)
 
@@ -13,7 +13,7 @@ Unit 1 (4 weeks):
 
 [Cross Validation and Hyperparameters](https://colab.research.google.com/drive/1XfYbas3NBUMNdgMe_p0hNz-aWD7ll1Sj?usp=sharing)
 
-Unit 2 (4 weeks): 
+**Unit 2 (4 weeks): **
 
 [Text Data and Naive Bayes](https://colab.research.google.com/drive/14tT7PislV6LmX54bOF466Uh_z22n4AVz?usp=sharing)
 
@@ -21,7 +21,7 @@ Unit 2 (4 weeks):
 
 [k-Nearest-Neighbors and Support Vector Machines](https://colab.research.google.com/drive/1iJO8t6O0SmkVxyie_DFt50jLM3EmFFIF?usp=sharing)
 
-Unit 3 (4 weeks)
+**Unit 3 (4 weeks)**
 
 [Ensemble Methods and Unsupervised Learning](https://colab.research.google.com/drive/1LtiKoZxwedtMG-rWrEIWnCSBXF0ovfGX?usp=sharing)
 
