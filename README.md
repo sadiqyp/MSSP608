@@ -30,5 +30,3 @@ UNIT 3:
 [Fairness and Explainability](https://colab.research.google.com/drive/1VA8dCmq8SghNBiStg7N6qcOdgRFgSDW-?usp=sharing)
 
 [Neural Networks and Deep Learning](https://colab.research.google.com/drive/1RgmET9DbGeRTxS2dPt-4kBRHYFiQIoqS?usp=sharing)
-
-# Recitation Slides
